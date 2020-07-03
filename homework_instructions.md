@@ -1,3 +1,4 @@
+
 # Node Express Handlebars
 
 ### Overview
@@ -48,24 +49,26 @@ Having an active and healthy commit history on GitHub is important for your futu
 
 #### App Setup
 
-1. Create a GitHub repo called `burger` and clone it to your computer.
+1. Create a GitHub repo called `burger` and clone it to your computer. DONE 
 
-2. Make a package.json file by running `npm init` from the command line.
+2. Make a package.json file by running `npm init` from the command line. DONE 
 
-3. Install the Express npm package: `npm install express`.
+3. Install the Express npm package: `npm install express`. DONE
 
-4. Create a server.js file.
+4. Create a server.js file. DONE 
 
-5. Install the Handlebars npm package: `npm install express-handlebars`.
+5. Install the Handlebars npm package: `npm install express-handlebars`. DONE 
 
-6. Install MySQL npm package: `npm install mysql`.
+6. Install MySQL npm package: `npm install mysql`. DONE 
 
 7. Require the following npm packages inside of the server.js file:
    * express
 
+   DONE 
+
 #### DB Setup
 
-1. Inside your `burger` directory, create a folder named `db`.
+1. Inside your `burger` directory, create a folder named `db`. DONE 
 
 2. In the `db` folder, create a file named `schema.sql`. Write SQL queries this file that do the following:
 
